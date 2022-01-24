@@ -21,3 +21,6 @@ $ npm run start:prod
 
 ## API Specification
 Eine OpenAPI Dokumentation (swagger) ist unter "/" einsehbar.
+
+## Snackbox.json
+Die Snackbox ist unter /snackbox.json gespeichert.
