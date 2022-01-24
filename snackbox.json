@@ -1,0 +1,62 @@
+[
+  {
+    "name": "PickUp Choco & Milk",
+    "price": 1.5,
+    "stock": 5,
+    "hasNuts": false,
+    "isVegan": false,
+    "brand": "Leibniz",
+    "tags": [
+      "Keks",
+      "Milch"
+    ],
+    "id": 1
+  },
+  {
+    "name": "Lion Knusper Schokoriegel",
+    "price": 2,
+    "stock": 6,
+    "hasNuts": false,
+    "isVegan": false,
+    "brand": "Néstle",
+    "tags": [
+      "Waffel",
+      "Karamell"
+    ],
+    "id": 2
+  },
+  {
+    "name": "Snickers",
+    "price": 1,
+    "stock": 10,
+    "hasNuts": true,
+    "isVegan": false,
+    "brand": "Néstle",
+    "tags": [
+      "Karamell"
+    ],
+    "id": 3
+  },
+  {
+    "name": "Knusperkeks",
+    "price": 3,
+    "stock": 10,
+    "hasNuts": false,
+    "isVegan": false,
+    "brand": "Ritter Sport",
+    "tags": [
+      "Keks"
+    ],
+    "id": 4
+  },
+  {
+    "name": "Sesam",
+    "price": 3,
+    "stock": 10,
+    "hasNuts": true,
+    "isVegan": true,
+    "brand": "Ritter Sport",
+    "tags": [],
+    "id": 5
+  }
+]
